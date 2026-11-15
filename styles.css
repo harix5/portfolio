@@ -154,6 +154,11 @@ details[open] .mark { transform: rotate(45deg); }
 .colophon { margin-top: 0; padding-block: var(--space-xl); border-top: var(--rule-hair) solid var(--color-rule-2); font-size: var(--text-sm); color: var(--color-muted); }
 .colophon p { max-width: 70ch; }
 .colophon p + p { margin-top: var(--space-xs); }
+.credits { margin-top: var(--space-xs); }
+.credits summary { display: inline-block; cursor: pointer; text-decoration: underline; text-decoration-color: var(--color-rule-2); text-underline-offset: 0.2em; }
+.credits summary::-webkit-details-marker { display: none; }
+.credits summary:hover { text-decoration-color: var(--color-accent); }
+.credits ul { margin: var(--space-xs) 0 0; padding: 0; list-style: none; }
 
 /* the pointer: a square that follows, and grows over anything clickable */
 .cursor { display: none; }
