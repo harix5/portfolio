@@ -35,6 +35,6 @@ Then visit `http://localhost:5173`.
 | `images/` | Background photographs |
 | `Hari_Prasath_S_Resume.pdf` | The resume linked from the page |
 
-## Photographs
+## Copyright
 
-The background photographs come from Wikimedia Commons under CC BY, CC BY-SA and public-domain terms. Each photographer is credited in the page footer, as their licences require.
+&copy; 2026 Hari Prasath S. All rights reserved.
